@@ -1,0 +1,30 @@
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    grid-template-rows: repeat(3, auto);
+    grid-gap: 20px;
+  
+
+  }
+  
+
+  
+  .grid-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .grid-item {
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f0f0f0; 
+  }
+
+  .dark-mode .grid-item {
+    background-color:  black; 
+    color: white; 
+  }
+  
+  

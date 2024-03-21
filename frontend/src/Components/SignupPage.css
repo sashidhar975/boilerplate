@@ -1,0 +1,75 @@
+.container {
+  background-color: #fff; 
+  color: #000; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 400px; 
+}
+
+.form-check-label {
+  color: #000; 
+}
+
+.btn-primary {
+  background-color: #7089a3; 
+  color: #fff;
+}
+
+.btn-outline-secondary {
+  color: #6c757d; 
+}
+
+.dark-mode .container {
+  background-color: #333; 
+  color: #fff;
+}
+
+.dark-mode .form-check-label {
+  color: #fff; 
+}
+
+.dark-mode .btn-primary {
+  background-color: #000;
+}
+
+.dark-mode .btn-outline-secondary {
+  color: #ccc; 
+}
+
+.oauth-buttons .oauth-button {
+  background-color: whitesmoke;
+  color: #000; 
+  border-color: transparent;
+  
+}
+
+.dark-mode .oauth-buttons .oauth-button {
+  background-color: #1a1a1b; 
+  color: white;
+}
+
+.oauth-buttons .oauth-button svg {
+  color: #fff;
+}
+
+
+.oauth-buttons .oauth-button .fa-google {
+  color: #dd4b39
+}
+
+
+.oauth-buttons .oauth-button .fa-facebook {
+  color: #3b5998
+}
+
+.dark-mode .oauth-buttons .oauth-button .fa-google {
+  color: #dd4b39
+}
+
+.dark-mode .oauth-buttons .oauth-button .fa-facebook {
+  color: #3b5998
+}
+
