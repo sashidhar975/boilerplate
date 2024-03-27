@@ -1,4 +1,4 @@
-# MERN Boilerplate with Stripe Payment Integration
+# MERN Boilerplate
 
 This is a MERN (MongoDB, Express.js, React.js, Node.js) boilerplate project with integrated Stripe payment functionality.
 
