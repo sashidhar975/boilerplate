@@ -10,6 +10,8 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) boilerplate project with
 - Node.js for server-side logic
 - Passport.js for authentication
 - Stripe Elements for secure card payments
+- CRUD operations
+- File uploads 
 - Axios for making HTTP requests
 
 ## Installation
